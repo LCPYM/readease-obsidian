@@ -66,7 +66,7 @@ Switch instantly between curated themes designed for different moods and lightin
 2. Add beta plugin: `your-username/readease-obsidian`
 
 ### Manual
-1. Download `main.js`, `manifest.json` from the [latest release](https://github.com/your-username/readease-obsidian/releases)
+1. Download `main.js`, `manifest.json` from the [latest release](https://github.com/LCPYMreadease-obsidian/releases)
 2. Copy to `.obsidian/plugins/readease/`
 3. Enable in Settings → Community Plugins
 
@@ -94,7 +94,7 @@ Access via **Settings → ReadEase**:
 
 ## 💬 Feedback & Support
 
-Found a bug or have a feature request? Please open an [issue on GitHub](https://github.com/your-username/readease-obsidian/issues).
+Found a bug or have a feature request? Please open an [issue on GitHub](https://github.com/LCPYM/readease-obsidian/issues).
 
 If ReadEase has improved your reading experience, consider buying me a coffee — it keeps the project alive! ☕
 
