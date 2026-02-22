@@ -1,0 +1,22 @@
+# VSCode
+.vscode
+
+# IntelliJ
+*.iml
+.idea
+
+# npm
+node_modules/
+
+# 編譯產物（透過 GitHub Release 發佈，不入 repo）
+main.js
+*.js.map
+
+# Obsidian 本地資料（包含個人設定，不應入 repo）
+data.json
+
+# macOS
+.DS_Store
+
+# TypeScript 編譯快取
+*.tsbuildinfo
