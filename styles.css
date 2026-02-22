@@ -1,0 +1,74 @@
+/* Reading Settings Modal 樣式 */
+.reading-settings-modal {
+  padding: 20px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.reading-settings-modal .setting-item {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.reading-settings-modal .setting-item:last-child {
+  border-bottom: none;
+}
+
+.reading-settings-modal .setting-item-name {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.reading-settings-modal .setting-item-description {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+/* Modal 陰影效果 */
+.modal.reading-settings-modal {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+/* Modal 內的設定項更緊湊 */
+.reading-settings-modal .compact-setting {
+  padding: 8px 0;
+  border: none;
+}
+
+.reading-settings-modal .compact-setting .setting-item-name {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* 滑桿樣式優化 */
+.reading-settings-modal input[type="range"] {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--background-modifier-border);
+}
+
+.reading-settings-modal input[type="range"]::-webkit-slider-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--interactive-accent);
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.reading-settings-modal input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--interactive-accent);
+  border: 2px solid var(--background-primary);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* 下拉選單樣式 */
+.reading-settings-modal select {
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+}

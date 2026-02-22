@@ -1,0 +1,11 @@
+{
+	"id": "reading-typography-tuner",
+	"name": "Reading Typography Tuner",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Fine-tune reading view spacing and fonts.",
+	"author": "LCPYM",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
