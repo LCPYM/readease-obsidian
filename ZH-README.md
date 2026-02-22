@@ -66,7 +66,7 @@ ReadEase 提供一個懸浮設定面板，讓你在不離開當前頁面的情�
 2. 添加 Beta 插件：`your-username/readease-obsidian`
 
 ### 手動安裝
-1. 從 [最新版本](https://github.com/your-username/readease-obsidian/releases) 下載 `main.js`、`manifest.json`
+1. 從 [最新版本](https://github.com/LCPYM/readease-obsidian/releases) 下載 `main.js`、`manifest.json`
 2. 複製到 `.obsidian/plugins/readease/` 資料夾
 3. 在「設定 → 社群插件」中啟用
 
@@ -94,7 +94,7 @@ ReadEase 提供一個懸浮設定面板，讓你在不離開當前頁面的情�
 
 ## 💬 意見回饋與支持
 
-遇到問題或有功能建議？歡迎在 [GitHub Issues](https://github.com/your-username/readease-obsidian/issues) 提出。
+遇到問題或有功能建議？歡迎在 [GitHub Issues](https://github.com/LCPYM/readease-obsidian/issues) 提出。
 
 如果 ReadEase 讓你的閱讀體驗變得更好，歡迎請我喝杯咖啡，支持持續開發！☕
 
